@@ -1,0 +1,27 @@
+TITLE
+
+    'SEGREGATION': module to compute segregation indices 
+    (two-group or multigroup; individual or aggregate data).
+
+DESCRIPTION/AUTHOR(S)
+
+   dicseg estimates segregation across units (e.g.  
+   occupations) in a two-group context. localseg estimates multigroup 
+   segregation (Alonso-Villar and Del Rio, 2010). 
+
+
+      KW: segregation
+      KW: indices
+      KW: groups
+      KW: race
+
+   
+   Requires: Stata version 10 and matsort from SSC
+   
+   Author: Carlos Gradin, University of Vigo
+   Support: email cgradin@uvigo.es
+   
+
+ANCILLARY FILES
+               
+   segdata.dta

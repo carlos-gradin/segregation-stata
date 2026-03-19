@@ -1,0 +1,17 @@
+TITLE
+      'RQ': module to compute Reynal-Querol index of ethnic polarization.
+
+DESCRIPTION/AUTHOR(S)
+Description
+rq computes the ethnic polarization measure proposed by Reunal-Querol (J of Conflict Resolution, 2002).
+      
+      KW: polarization
+      KW: indices
+      KW: renal-querol
+      KW: ethnic
+
+      Requires: Stata version 7
+      
+      Author: Carlos Gradin, University of Vigo
+      Support: email cgradin@uvigo.es
+      
